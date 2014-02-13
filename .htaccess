@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets|css/images|images|robots\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]
+
+
+RewriteCond %{HTTP_USER_AGENT} ^Malvadobot/.* [NC] 
+RewriteCond %{REQUEST_FILENAME} ^/sendemail.php$ [NC] 
+RewriteCond %{HTTP_REFERER} ^http://www.spammers.com/.* [NC] 
+RewriteRule .* - [F]
+

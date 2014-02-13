@@ -1,0 +1,18 @@
+/* TEAM */
+	Chef:Fabián Fuentealba Acuña
+	Contact: jasperirving007@gmail.com	
+	From:Santiago, Santiago, Chile
+	
+	UI developer:Fabián Fuentealba Acuña
+	Contact: jasperirving007@gmail.com	
+	From:Santiago, Santiago, Chile
+	
+	Web designer:Fabián Fuentealba Acuña
+	Contact: jasperirving007@gmail.com	
+	From:Santiago, Santiago, Chile
+	
+/* SITE */
+	Last update:2013/12/18
+	Language: Spanish
+	Doctype: XHTML
+	IDE: Dreamweaver

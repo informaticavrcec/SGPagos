@@ -1,0 +1,54 @@
+*{
+	font-family:Tahoma, Geneva, sans-serif;
+	outline:none;		
+}
+
+body{
+	font-size:11px;
+	color:#666;
+	margin-top:0;	
+}
+
+input{
+	display:none;	
+}
+
+.tabla_result{
+	border-collapse:collapse;
+}
+
+.hide{
+	display:none;	
+}
+
+.tabla_result th{
+	border:#CCC 1px solid;
+	background-color:#F4F4F4;
+}
+
+.tabla_result td{
+	border:#CCC 1px solid;	
+}
+
+select{
+	display:none;
+}
+
+.only-print{
+	display:inline-block;	
+}
+
+.titulo{	
+	font-size:12px;
+	text-transform:uppercase;
+	border-bottom:#666 1px dotted;
+	font-weight:bold;
+	color:#069;
+	text-align:center	
+}
+
+.noprint{
+	display:none;	
+}
+
+.hide
