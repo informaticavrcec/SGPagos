@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = '192.168.1.8';
-$db['default']['username'] = 'sa';
-$db['default']['password'] = 'centro2005';
-$db['default']['database'] = 'SGEExtensionUC';
+$db['default']['username'] = '';
+$db['default']['password'] = '';
+$db['default']['database'] = '';
 $db['default']['dbdriver'] = 'mssql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = FALSE;
